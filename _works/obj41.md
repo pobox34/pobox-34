@@ -4,6 +4,7 @@ writer: Justino G
 label: 2nd Assignment
 _date: May 20 2021
 order: '41'
+permalink: '/2nd-assignment-justino-g/'
 layout: work
 collection: works
 thumbnail: "/img/derivatives/iiif/images/obj41_0/full/250,/0/default.jpg"

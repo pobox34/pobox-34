@@ -4,6 +4,7 @@ writer: Joseph K
 label: Conversations with the Walls
 _date: December 14 2020
 order: '34'
+permalink: '/conversations-with-the-walls/'
 layout: work
 collection: works
 thumbnail: "/img/derivatives/iiif/images/obj34_00/full/250,/0/default.jpg"

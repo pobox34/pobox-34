@@ -142,7 +142,11 @@ menu:
       - label: 'Quasheam R'
         link: '/writers/quasheam-r/'
   - label: 'Browse'
-    link: '/collection/'
+    sub:
+      - label: 'Browse the Collection'
+        link: '/collection/'
+      - label: 'Covid Responses'
+        link: '/covid-responses/'
   - label: 'Blog'
     link: '/blog/'
   - label: 'Search'

@@ -4,6 +4,7 @@ writer: Joseph K
 label: Truth be Told
 _date: February 28 2021
 order: '40'
+permalink: '/truth-be-told/'
 layout: work
 collection: works
 thumbnail: "/img/derivatives/iiif/images/obj40_0/full/250,/0/default.jpg"

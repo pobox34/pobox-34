@@ -55,9 +55,19 @@
       "label": "obj12"
     },
     {
+      "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj45/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj45"
+    },
+    {
       "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj42/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj42"
+    },
+    {
+      "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj51/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj51"
     },
     {
       "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj1/manifest.json",
@@ -73,6 +83,11 @@
       "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj8/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj8"
+    },
+    {
+      "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj50/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj50"
     },
     {
       "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj35/manifest.json",
@@ -140,6 +155,16 @@
       "label": "obj27"
     },
     {
+      "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj49/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj49"
+    },
+    {
+      "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj47/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj47"
+    },
+    {
       "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj40/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj40"
@@ -163,6 +188,16 @@
       "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj41/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj41"
+    },
+    {
+      "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj46/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj46"
+    },
+    {
+      "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj48/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj48"
     },
     {
       "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj23/manifest.json",
@@ -200,6 +235,11 @@
       "label": "obj39"
     },
     {
+      "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj52/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj52"
+    },
+    {
       "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj38/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj38"
@@ -213,6 +253,11 @@
       "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj36/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj36"
+    },
+    {
+      "@id": "http://localhost:4000/pobox34/img/derivatives/iiif/obj53/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj53"
     }
   ]
 }

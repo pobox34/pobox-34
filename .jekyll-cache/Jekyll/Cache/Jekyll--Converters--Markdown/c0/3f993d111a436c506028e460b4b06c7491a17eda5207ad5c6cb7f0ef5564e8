@@ -1,0 +1,25 @@
+I"E<h2 class="exhibit-title mt-5">Inspired Works</h2>
+
+<div class="inline-image-reference">
+  <a href="http://localhost:4000/pobox34/works/obj31/">
+    <img src="http://localhost:4000/pobox34/img/derivatives/iiif/images/obj31/full/1140,/0/default.jpg" />
+  </a>
+  
+  <p class="image-caption">
+    Above: <a href="http://localhost:4000/pobox34/works/obj31/">On the Wings of Morning Glory Inspired by Michael Lyons by Justine Cal</a>
+  </p>
+  
+</div>
+
+<div class="inline-image-reference">
+  <a href="http://localhost:4000/pobox34/works/obj33/">
+    <img src="http://localhost:4000/pobox34/img/derivatives/iiif/images/obj33/full/1140,/0/default.jpg" />
+  </a>
+  
+  <p class="image-caption">
+    Above: <a href="http://localhost:4000/pobox34/works/obj33/">Inspired by Michael Lyons Poem Nighttime Catechism by Justine Cal</a>
+  </p>
+  
+</div>
+
+:ET

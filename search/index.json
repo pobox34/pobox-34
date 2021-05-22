@@ -1,0 +1,425 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj34",
+    "writer": "Joseph K",
+    "label": "Conversations with the Walls",
+    "_date": "December 14 2020",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj34_00/full/250,/0/default.jpg",
+    "permalink": "/works/obj34",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj5",
+    "writer": "Aaron W",
+    "label": "Not Me",
+    "_date": "June 3 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
+    "permalink": "/not-me/",
+    "collection": "works",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj10",
+    "writer": "Ezra B",
+    "label": "First Poems",
+    "_date": "July 7 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems/full/250,/0/default.jpg",
+    "permalink": "/first-poems/",
+    "collection": "works",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj41",
+    "writer": "Justino G",
+    "label": "2nd Assignment",
+    "_date": "May 20 2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj41_0/full/250,/0/default.jpg",
+    "permalink": "/works/obj41",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj24",
+    "writer": "Quasheam R",
+    "label": "Grind / Who Was I? / All Around the World / Damn Bro... You Lied to Me!",
+    "_date": "December 22 2020",
+    "permalink": "/quasheam-r-assorted-works/",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj24_0/full/250,/0/default.jpg",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj30",
+    "writer": "Go and David G",
+    "label": "Covid Gif Parts 1 and 2",
+    "_date": "March 15 2021",
+    "permalink": "/covid-gif/",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj30_0/full/250,/0/default.jpg",
+    "lunr_id": 5
+  },
+  {
+    "pid": "obj1",
+    "writer": "Aaron W",
+    "label": "Hatred",
+    "_date": "May 29 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj1_0/full/250,/0/default.jpg",
+    "permalink": "/hatred/",
+    "collection": "works",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj20",
+    "writer": "Myke L",
+    "label": "What Did I Do",
+    "_date": "June 2 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj20/full/250,/0/default.jpg",
+    "permalink": "/what-did-i-do/",
+    "collection": "works",
+    "lunr_id": 7
+  },
+  {
+    "pid": "obj14",
+    "writer": "Myke L",
+    "label": "Killadelphia",
+    "_date": "July 1 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj14_Myke_Killadelphia_0/full/250,/0/default.jpg",
+    "permalink": "/killadelphia/",
+    "collection": "works",
+    "lunr_id": 8
+  },
+  {
+    "pid": "obj31",
+    "writer": "Justine Cal",
+    "label": "On the Wings of Morning Glory Inspired by Michael Lyons",
+    "_date": "2020",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj31/full/250,/0/default.jpg",
+    "permalink": "/works/obj31",
+    "lunr_id": 9
+  },
+  {
+    "pid": "obj21",
+    "writer": "Myke L",
+    "label": "Without Touch",
+    "_date": "May 27 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj21/full/250,/0/default.jpg",
+    "permalink": "/without-touch/",
+    "collection": "works",
+    "lunr_id": 10
+  },
+  {
+    "pid": "obj44",
+    "writer": "Quasheam R",
+    "label": "Who Was I",
+    "_date": "May 20 2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj44_0/full/250,/0/default.jpg",
+    "permalink": "/works/obj44",
+    "lunr_id": 11
+  },
+  {
+    "pid": "obj15",
+    "writer": "Myke L",
+    "label": "Breathe",
+    "_date": "July 23 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj15/full/250,/0/default.jpg",
+    "permalink": "/breathe/",
+    "collection": "works",
+    "lunr_id": 12
+  },
+  {
+    "pid": "obj35",
+    "writer": "Joseph K",
+    "label": "African Experience",
+    "_date": "February 28 2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj35_0/full/250,/0/default.jpg",
+    "permalink": "/works/obj35",
+    "lunr_id": 13
+  },
+  {
+    "pid": "obj4",
+    "writer": "Aaron W",
+    "label": "My View",
+    "_date": "June 3 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+    "permalink": "/my-view/",
+    "collection": "works",
+    "lunr_id": 14
+  },
+  {
+    "pid": "obj11",
+    "writer": "Marvin S",
+    "label": "All of Us!",
+    "_date": "May 29 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj11_0/full/250,/0/default.jpg",
+    "permalink": "/all-of-us/",
+    "collection": "works",
+    "lunr_id": 15
+  },
+  {
+    "pid": "obj40",
+    "writer": "Joseph K",
+    "label": "Truth be Told",
+    "_date": "February 28 2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj40_0/full/250,/0/default.jpg",
+    "permalink": "/works/obj40",
+    "lunr_id": 16
+  },
+  {
+    "pid": "obj25",
+    "writer": "Myke L",
+    "label": "From Superman to Man",
+    "_date": "January 14 2021",
+    "permalink": "/from-superman-to-man/",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj25_0/full/250,/0/default.jpg",
+    "lunr_id": 17
+  },
+  {
+    "pid": "obj38",
+    "writer": "Joseph K",
+    "label": "Mirrors",
+    "_date": "February 28 2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj38_0/full/250,/0/default.jpg",
+    "permalink": "/works/obj38",
+    "lunr_id": 18
+  },
+  {
+    "pid": "obj28",
+    "writer": "David G",
+    "label": "Artwork 4 (PO Box 34 Large)",
+    "_date": "March 15 2021",
+    "permalink": "/artwork-4-po-box-34-large/",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj28/full/250,/0/default.jpg",
+    "lunr_id": 19
+  },
+  {
+    "pid": "obj18",
+    "writer": "Myke L",
+    "label": "Out of the Sea",
+    "_date": "May 29 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj18/full/250,/0/default.jpg",
+    "permalink": "/out-of-the-sea/",
+    "collection": "works",
+    "lunr_id": 20
+  },
+  {
+    "pid": "obj19",
+    "writer": "Myke L",
+    "label": "Voice of the Night",
+    "_date": "May 26 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj19_Myke_Voice_of_the_Night_pg_1/full/250,/0/default.jpg",
+    "permalink": "/voice-of-the-night/",
+    "collection": "works",
+    "lunr_id": 21
+  },
+  {
+    "pid": "obj39",
+    "writer": "Joseph K",
+    "label": "Politics",
+    "_date": "January 19 2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj39_0/full/250,/0/default.jpg",
+    "permalink": "/works/obj39",
+    "lunr_id": 22
+  },
+  {
+    "pid": "obj29",
+    "writer": "David G",
+    "label": "Covid 19 Still",
+    "_date": "March 15 2021",
+    "permalink": "/covid-19-still/",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj29/full/250,/0/default.jpg",
+    "lunr_id": 23
+  },
+  {
+    "pid": "obj8",
+    "writer": "David G",
+    "label": "Secured Preservation",
+    "_date": "May 26 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj8_David_0/full/250,/0/default.jpg",
+    "permalink": "/secured-preservation/",
+    "collection": "works",
+    "lunr_id": 24
+  },
+  {
+    "pid": "obj32",
+    "writer": "Myke L",
+    "label": "Nighttime Catechism",
+    "_date": "February 16 2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_1/full/250,/0/default.jpg",
+    "permalink": "/works/obj32",
+    "lunr_id": 25
+  },
+  {
+    "pid": "obj3",
+    "writer": "Aaron W",
+    "label": "We Need",
+    "_date": "May 22 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj3_0/full/250,/0/default.jpg",
+    "permalink": "/we-need/",
+    "collection": "works",
+    "lunr_id": 26
+  },
+  {
+    "pid": "obj16",
+    "writer": "Myke L",
+    "label": "Morning Glory",
+    "_date": "July 23 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj16_Myke_L_Morning_Glory_Jul_18/full/250,/0/default.jpg",
+    "permalink": "/morning-glory/",
+    "collection": "works",
+    "lunr_id": 27
+  },
+  {
+    "pid": "obj36",
+    "writer": "Joseph K",
+    "label": "Annual Day of Responsibility",
+    "_date": "February 28 2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj36_0/full/250,/0/default.jpg",
+    "permalink": "/works/obj36",
+    "lunr_id": 28
+  },
+  {
+    "pid": "obj7",
+    "writer": "Aaron W",
+    "label": "Frighten Love",
+    "_date": "June 3 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+    "permalink": "/frighten-love/",
+    "collection": "works",
+    "lunr_id": 29
+  },
+  {
+    "pid": "obj43",
+    "writer": "Myke L",
+    "label": "It Ain't Worth It",
+    "_date": "January 19 2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj43_0/full/250,/0/default.jpg",
+    "permalink": "/works/obj43",
+    "lunr_id": 30
+  },
+  {
+    "pid": "obj12",
+    "writer": "Myke L",
+    "label": "Bloated Belly",
+    "_date": "May 27 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj12/full/250,/0/default.jpg",
+    "permalink": "/bloated-belly/",
+    "collection": "works",
+    "lunr_id": 31
+  },
+  {
+    "pid": "obj26",
+    "writer": "Myke L",
+    "label": "Moment of Clarity",
+    "_date": "January 15 2021",
+    "permalink": "/moment-of-clarity/",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj26_0/full/250,/0/default.jpg",
+    "lunr_id": 32
+  },
+  {
+    "pid": "obj37",
+    "writer": "Joseph K",
+    "label": "In the Moment",
+    "_date": "March 21 2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj37_0/full/250,/0/default.jpg",
+    "permalink": "/works/obj37",
+    "lunr_id": 33
+  },
+  {
+    "pid": "obj6",
+    "writer": "Aaron W",
+    "label": "Lost Love",
+    "_date": "June 3 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
+    "permalink": "/lost-love/",
+    "collection": "works",
+    "lunr_id": 34
+  },
+  {
+    "pid": "obj42",
+    "writer": "Marvin S",
+    "label": "2nd Assignment",
+    "_date": "April 11 2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj42_0/full/250,/0/default.jpg",
+    "permalink": "/works/obj42",
+    "lunr_id": 35
+  },
+  {
+    "pid": "obj13",
+    "writer": "Myke L",
+    "label": "Blood Thicker Than Water",
+    "_date": "June 2 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj13/full/250,/0/default.jpg",
+    "permalink": "/blood-thicker-than-water/",
+    "collection": "works",
+    "lunr_id": 36
+  },
+  {
+    "pid": "obj27",
+    "writer": "David G",
+    "label": "Artwork 2 (PO Box 34 Small)",
+    "_date": "March 15 2021",
+    "permalink": "/artwork-2-po-box-34-small/",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj27/full/250,/0/default.jpg",
+    "lunr_id": 37
+  },
+  {
+    "pid": "obj33",
+    "writer": "Justine Cal",
+    "label": "Inspired by Michael Lyons Poem Nighttime Catechism",
+    "_date": "2021",
+    "collection": "works",
+    "thumbnail": "/img/derivatives/iiif/images/obj33/full/250,/0/default.jpg",
+    "permalink": "/works/obj33",
+    "lunr_id": 38
+  },
+  {
+    "pid": "obj2",
+    "writer": "Aaron W",
+    "label": "How Many Pieces",
+    "_date": "April 29 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj2_0/full/250,/0/default.jpg",
+    "permalink": "/how-many-pieces/",
+    "collection": "works",
+    "lunr_id": 39
+  },
+  {
+    "pid": "obj23",
+    "writer": "Justino G",
+    "label": "Pieces from the Ledger - On Breath",
+    "_date": "July 2 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_0/full/250,/0/default.jpg",
+    "permalink": "/pieces-from-the-ledger/",
+    "collection": "works",
+    "lunr_id": 40
+  },
+  {
+    "pid": "obj17",
+    "writer": "Myke L",
+    "label": "Semblance",
+    "_date": "July 23 2020",
+    "thumbnail": "/img/derivatives/iiif/images/obj17_Myke_L_Semblance_Jul_18_3/full/250,/0/default.jpg",
+    "permalink": "/semblance/",
+    "collection": "works",
+    "lunr_id": 41
+  }
+]

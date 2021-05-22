@@ -1,0 +1,105 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj32/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "obj32",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_1/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/obj32_Nighttime_Catechism_Myke_L_1.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj32_Nighttime_Catechism_Myke_L_1.json",
+          "label": "Page 1",
+          "width": 2392,
+          "height": 3252,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_1/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj32_Nighttime_Catechism_Myke_L_1.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_1/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_1",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1196,
+                "height": 1626
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj32_Nighttime_Catechism_Myke_L_1.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj32_Nighttime_Catechism_Myke_L_2.json",
+          "label": "Page 2",
+          "width": 1282,
+          "height": 1632,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_2/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj32_Nighttime_Catechism_Myke_L_2.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_2/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_2",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1282,
+                "height": 1632
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj32_Nighttime_Catechism_Myke_L_2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj32_Nighttime_Catechism_Myke_L_3.json",
+          "label": "Page 3",
+          "width": 1294,
+          "height": 1647,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj32_Nighttime_Catechism_Myke_L_3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1294,
+                "height": 1647
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj32_Nighttime_Catechism_Myke_L_3.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj32_Nighttime_Catechism_Myke_L_1/full/full/0/default.jpg"
+}

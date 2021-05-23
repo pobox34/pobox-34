@@ -17,7 +17,7 @@ permalink: '/example-2021-02-18/'
 <p>Thank you for your continued support on the project. 
 </p> 
 
-<p> For more info please contact us at pobox34[at]protonmail.com
+<p> For more info please contact us at pobox34[at]protonmail.com. We look forward to hearing from you!
 </p> 
 
 

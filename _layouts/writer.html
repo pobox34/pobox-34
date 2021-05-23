@@ -20,7 +20,7 @@ layout: default
   
   <h2 class='mt-5 exhibit-title'>Works</h2>
 
-  {% assign works = site.works | where_exp:'work', "work.writer contains page.writer" %}
+  {% assign works = site.works | where_exp:'work', "page.writer contains work.writer or page.writer contains work.writer1" %}
   {% unless works == empty %}
     <ul>
       {% for work in works %}

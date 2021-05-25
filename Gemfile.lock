@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    wax_theme (1.0.1)
+    wax_theme (1.0.0)
       jekyll (~> 4.1)
       wax_tasks (~> 1.1)
 
@@ -113,7 +113,7 @@ DEPENDENCIES
   kramdown-parser-gfm
   nokogumbo (~> 2.0, >= 2.0.5)
   tzinfo-data
-  wax_theme!
+  wax_theme
   webrick
 
 BUNDLED WITH

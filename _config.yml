@@ -21,10 +21,9 @@
 title:            'PO Box 34'
 description:      'Connecting voices inside with voices outside'
 url:              'https://pobox34.github.io'
-baseurl:          ''
+baseurl:          '/pobox34'
 copyright:        'All rights reserved, 2021'
 logo:             'logo.png'
-theme:            'wax_theme'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -196,5 +195,3 @@ about:
 
 
 # FIN
-
-theme: jekyll-theme-cayman

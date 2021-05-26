@@ -21,7 +21,7 @@
 title:            'PO Box 34'
 description:      'Connecting voices inside with voices outside'
 url:              'https://pobox34.github.io'
-baseurl:          '/pobox34'
+baseurl:          '/pobox-34'
 copyright:        'All rights reserved, 2021'
 logo:             'logo.png'
 

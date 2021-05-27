@@ -114,7 +114,7 @@ DEPENDENCIES
   nokogumbo (~> 2.0, >= 2.0.5)
   tzinfo-data
   wax_theme!
-  webrick
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.2.15

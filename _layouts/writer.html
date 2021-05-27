@@ -17,7 +17,7 @@ layout: default
   {% endif %}
 
   {{ content }}
-  
+
   <h2 class='mt-5 exhibit-title'>Works</h2>
 
   {% assign works = site.works | where_exp:'work', "page.writer contains work.writer or page.writer contains work.writer1" %}
@@ -31,5 +31,3 @@ layout: default
     <p class="ml-4">Currently not available</p>
   {% endunless %}
 </div>
-
-

@@ -68,6 +68,8 @@ collections:
   writers:
     output: true
     layout: 'writer'
+    metadata:
+      source: 'writers.csv'
   works: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'work' # the layout for the pages to use

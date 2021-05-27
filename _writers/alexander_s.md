@@ -1,9 +1,13 @@
 ---
-writer: Alexander S
+pid: Alexander S
 fullName: Alexander Solomon
 number: KH9460
-permalink: '/alexander-s/'
+vimeoId:
+videoTitle:
+permalink: "'/alexander-s/'"
 layout: writer
 collection: writers
 addressId: Alexander-S
+! '':
+order: '01'
 ---

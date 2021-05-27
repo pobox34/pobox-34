@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class='exhibit-meta'>
-  <h1 class='exhibit-author'>{{ page.writer }}</h1>
+  <h1 class='exhibit-author'>{{ page.pid }}</h1>
   <p>Find their mailing address <a href="{{site.baseurl}}/mailing-addresses#{{ page.addressId }}">here</a>.</p>
 
   {% if page.vimeoId != nil %}
@@ -20,7 +20,7 @@ layout: default
   
   <h2 class='mt-5 exhibit-title'>Works</h2>
 
-  {% assign works = site.works | where_exp:'work', "page.writer contains work.writer or page.writer contains work.writer1" %}
+  {% assign works = site.works | where_exp:'work', "page.pid contains work.writer or page.pid contains work.writer1" %}
   {% unless works == empty %}
     <ul>
       {% for work in works %}

@@ -4,7 +4,6 @@ writer: Myke L
 label: Moment of Clarity
 _date: January 15 2021
 order: '26'
-permalink: /moment-of-clarity/
 layout: work
 collection: works
 thumbnail: "/img/derivatives/iiif/images/obj26_0/full/250,/0/default.jpg"

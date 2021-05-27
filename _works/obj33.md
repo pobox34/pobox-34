@@ -4,7 +4,6 @@ writer: Justine Cal
 label: Inspired by Michael Lyons Poem Nighttime Catechism
 _date: '2021'
 order: '33'
-permalink: '/inspired-by-nighttime-catechism/'
 layout: work
 collection: works
 thumbnail: "/img/derivatives/iiif/images/obj33/full/250,/0/default.jpg"

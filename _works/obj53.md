@@ -4,7 +4,6 @@ writer: Anonymous
 label: Covid Response 9
 _date: February 23 2021
 order: '53'
-permalink: '/covid-response-9/'
 layout: work
 collection: works
 thumbnail: "/img/derivatives/iiif/images/obj53_0/full/250,/0/default.jpg"

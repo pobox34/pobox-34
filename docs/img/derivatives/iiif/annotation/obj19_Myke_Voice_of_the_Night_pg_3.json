@@ -1,0 +1,19 @@
+{
+  "@type": "oa:Annotation",
+  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/annotation/obj19_Myke_Voice_of_the_Night_pg_3.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj19_Myke_Voice_of_the_Night_pg_3/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj19_Myke_Voice_of_the_Night_pg_3",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 1233,
+    "height": 977
+  },
+  "on": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj19_Myke_Voice_of_the_Night_pg_3.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

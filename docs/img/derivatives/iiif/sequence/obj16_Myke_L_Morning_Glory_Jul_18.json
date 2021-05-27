@@ -1,0 +1,63 @@
+{
+  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/sequence/obj16_Myke_L_Morning_Glory_Jul_18.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj16_Myke_L_Morning_Glory_Jul_18.json",
+      "label": "Page 1",
+      "width": 1240,
+      "height": 1735,
+      "thumbnail": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj16_Myke_L_Morning_Glory_Jul_18/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/annotation/obj16_Myke_L_Morning_Glory_Jul_18.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj16_Myke_L_Morning_Glory_Jul_18/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj16_Myke_L_Morning_Glory_Jul_18",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1240,
+            "height": 1735
+          },
+          "on": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj16_Myke_L_Morning_Glory_Jul_18.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj16_Myke_L_Morning_Glory_Jul_18_2.json",
+      "label": "Page 2",
+      "width": 1240,
+      "height": 1735,
+      "thumbnail": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj16_Myke_L_Morning_Glory_Jul_18_2/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/annotation/obj16_Myke_L_Morning_Glory_Jul_18_2.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj16_Myke_L_Morning_Glory_Jul_18_2/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj16_Myke_L_Morning_Glory_Jul_18_2",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1240,
+            "height": 1735
+          },
+          "on": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj16_Myke_L_Morning_Glory_Jul_18_2.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

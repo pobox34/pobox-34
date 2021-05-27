@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class='exhibit-meta'>
-  <h1 class='exhibit-author'>{{ page.writer }}</h1>
+  <h1 class='exhibit-author'>{{ page.label }}</h1>
   <p>Find their mailing address <a href="{{site.baseurl}}/mailing-addresses#{{ page.addressId }}">here</a>.</p>
 
   {% if page.vimeoId != nil %}
@@ -17,19 +17,17 @@ layout: default
   {% endif %}
 
   {{ content }}
-  
+
   <h2 class='mt-5 exhibit-title'>Works</h2>
 
-  {% assign works = site.works | where_exp:'work', "page.writer contains work.writer or page.writer contains work.writer1" %}
+  {% assign works = site.works | where_exp:'work', "page.label contains work.writer or page.label contains work.writer1" %}
   {% unless works == empty %}
     <ul>
       {% for work in works %}
-          <li><a href="{{site.baseurl}}{{work.permalink}}">{{work.label}}</a></li>
+          <li><a href="{{site.baseurl}}/works/{{work.pid}}">{{work.label}}</a></li>
       {% endfor %}
     </ul>
   {% else %}
     <p class="ml-4">Currently not available</p>
   {% endunless %}
 </div>
-
-

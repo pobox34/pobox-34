@@ -1,0 +1,19 @@
+{
+  "@type": "oa:Annotation",
+  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/annotation/obj42_0.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj42_0/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj42_0",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 2550,
+    "height": 3300
+  },
+  "on": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj42_0.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

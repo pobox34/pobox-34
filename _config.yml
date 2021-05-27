@@ -24,7 +24,6 @@ url:              'https://pobox34.github.io'
 baseurl:          '/pobox-34'
 copyright:        'All rights reserved, 2021'
 logo:             'logo.png'
-#theme:            'wax_theme'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS

@@ -9,7 +9,7 @@ _site
 .idea/
 
 # ruby things
-
+Gemfile.lock
 
 # wax things
 wax_tasks

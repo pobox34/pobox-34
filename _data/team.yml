@@ -1,0 +1,120 @@
+
+- title: Project Team
+  people:
+    - name: Aaron W
+      link: aaron-w
+      img: 'img/team_members/transparent.png'
+    - name: Alexander S
+      link: alexander-s
+      img: 'img/team_members/transparent.png'
+    - name: Clarence S
+      link: clarence-s
+      img: 'img/team_members/transparent.png'
+    - name: David G
+      link: david-g
+      img: 'img/team_members/transparent.png'
+    - name: Donyea P
+      link: donyea-p
+      img: 'img/team_members/transparent.png'
+    - name: Ezra B
+      link: ezra-b
+      img: 'img/team_members/transparent.png'
+    - name: Go
+      link: go
+      img: 'img/team_members/transparent.png'
+    - name: Joseph K
+      link: joseph-k
+      img: 'img/team_members/transparent.png'
+    - name: Joseph S
+      link: joseph-s
+      img: 'img/team_members/transparent.png'
+    - name: Justino G
+      link: justino-g
+      img: 'img/team_members/transparent.png'
+    - name: Lamar L
+      link: lamar-l
+      img: 'img/team_members/transparent.png'
+    - name: Marvin S
+      link: marvin-s
+      img: 'img/team_members/transparent.png'
+    - name: Myke L
+      link: myke-l
+      img: 'img/team_members/transparent.png'
+    - name: Paul M
+      link: paul-m
+      img: 'img/team_members/transparent.png'
+    - name: Quasheam R
+      link: quasheam-r
+      img: 'img/team_members/transparent.png'
+- title: Lead Artist
+  people:
+    - name: Erika Tsuchiya-Bergere
+      bio:  Media Artist and Producer based in Philadelphia area. 
+        Former Lead Teaching Artist for Easten State Penitentiary’s Hidden 
+        Lives Illuminated, working with incarcerated filmmakers at SCI 
+        Chester and Riverside Correctional for women, producing 20 short 
+        animated films for large-scale public projection. 
+      img: 'img/team_members/ErikaTB.jpg'
+- title: Writing Mentors
+  people:
+    - name: Gabriela Alvarado
+      bio:
+      img: 'img/team_members/transparent.png'
+    - name: Isabel Casares
+      bio: Junior at the University of Pennsylvania, originally from 
+        New York City, Currently studying English and Political Science 
+        with the hopes of becoming an attorney one day. 
+      img: 'img/team_members/IsabelCasares.JPG'
+    - name: Kinjal Dave
+      bio: Kinjal Dave is a doctoral student at the University of Pennsylvania's 
+        Annenberg School for Communication. She is a member of the abolitionist 
+        assembly Police Free Penn and P.O. Box 34. She is a graduate fellow at 
+        the Center for Advanced Research on Global Communication (CARGC), and 
+        an affiliate of the Data & Society Research Institute, the Center for 
+        Critical Race and Digital Studies. Regrettably, she can be found on 
+        Twitter (@kinjaldave7).
+      img: 'img/team_members/transparent.png'
+- title: Project Coordinator
+  people:
+      - name: Kinjal Dave
+        bio: Kinjal Dave is a doctoral student at the University of Pennsylvania's 
+          Annenberg School for Communication. She is a member of the abolitionist 
+          assembly Police Free Penn and P.O. Box 34. She is a graduate fellow at 
+          the Center for Advanced Research on Global Communication (CARGC), and 
+          an affiliate of the Data & Society Research Institute, the Center for 
+          Critical Race and Digital Studies. Regrettably, she can be found on 
+          Twitter (@kinjaldave7).
+        img: 'img/team_members/transparent.png'
+- title: Web Developer
+  people:
+      - name: Anastasia Hutnick
+        bio: Anthropology Major, Graduated from School of Arts and Sciences 
+          in 2020
+        img: 'img/team_members/transparent.png'
+- title: Faculty Advisors
+  people:
+      - name: Jessa Lingel
+        bio: Associate Professor at the Annenberg School for Communication 
+          and core faculty in the Gender, Sexuality and Women’s Studies 
+          Program at the University of Pennsylvania. Research interests 
+          include digital inequalities and technological distributions of 
+          power. 
+        img: 'img/team_members/JessaLingel.jpg'
+      - name: Whitney Trettien
+        bio: Assistant Professor of English - Researches the history of the 
+          book and other text technologies from print to digital. Her work is 
+          invested in exploring the past to better understand our present 
+          media environment.
+        img: 'img/team_members/WhitneyTrettien.jpeg'
+- title: Project Support
+  people:
+      - name: Stewart Varner
+        bio: Managing Director of the Price Lab for Digital Humanities - 
+          Stewart is passionate about helping humanities scholars take 
+          advantage of digital tools and techniques but also about 
+          empowering them to be critical users and consumers of technology. 
+          He is also excited about the potential of digital tools to make 
+          humanities scholarship more dynamic and accessible for people 
+          outside academia.
+        img: 'img/team_members/StewartVarner.png'
+

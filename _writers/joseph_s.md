@@ -4,7 +4,7 @@ label: Joseph Spinks
 number: CE6457
 vimeoId:
 videoTitle:
-permalink: "/writer/joseph-s/"
+permalink: "/writers/joseph-s/"
 layout: writer
 collection: writers
 addressId: Joseph_S

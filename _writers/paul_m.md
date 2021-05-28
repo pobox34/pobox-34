@@ -1,13 +1,12 @@
 ---
-pid: Paul M
-fullName: Paul Miles
+pid: paul_m
+label: Paul Miles
 number: JB3289
 vimeoId:
 videoTitle:
-permalink: "'/paul-m/'"
+permalink: "/writers/paul-m/"
 layout: writer
 collection: writers
 addressId: Paul-M
-! '':
-order: '11'
+order: '12'
 ---

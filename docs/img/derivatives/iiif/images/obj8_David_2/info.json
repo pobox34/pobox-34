@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj8_David_2",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1068,
+  "height": 1060,
+  "sizes": [
+    {
+      "width": 1068,
+      "height": 1060
+    },
+    {
+      "width": 250,
+      "height": 248
+    },
+    {
+      "width": 1140,
+      "height": 1131
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

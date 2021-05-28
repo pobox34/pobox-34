@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj14_Myke_Killadelphia_0",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1258,
+  "height": 1524,
+  "sizes": [
+    {
+      "width": 1258,
+      "height": 1524
+    },
+    {
+      "width": 250,
+      "height": 303
+    },
+    {
+      "width": 1140,
+      "height": 1381
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

@@ -61,9 +61,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     mini_magick (4.11.0)
-    mini_portile2 (2.5.1)
-    nokogiri (1.11.5)
-      mini_portile2 (~> 2.5.0)
+    nokogiri (1.11.6-arm64-darwin)
       racc (~> 1.4)
     nokogumbo (2.0.5)
       nokogiri (~> 1.8, >= 1.8.4)
@@ -106,12 +104,11 @@ GEM
     yell (2.2.2)
 
 PLATFORMS
-  ruby
+  arm64-darwin-20
 
 DEPENDENCIES
   html-proofer (~> 3.15)
   kramdown-parser-gfm
-  nokogumbo (~> 2.0, >= 2.0.5)
   tzinfo-data
   wax_theme!
   webrick

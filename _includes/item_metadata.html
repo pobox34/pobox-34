@@ -24,13 +24,8 @@
           {%- endcapture -%}
         {% endif %}
       {% endif %}
-      {% if key == 'writer' and page['writer1'] != nil %}
-        <dt>Writers</dt>
-        <dd>{{ value | strip }} and {{ page['writer1'] | strip }}</dd>
-      {% else %}
         <dt>{{ item.label }}</dt>
         <dd>{{ value | strip }}</dd>
-      {% endif %}
     {% endif %}
   {% endfor %}
 </dl>

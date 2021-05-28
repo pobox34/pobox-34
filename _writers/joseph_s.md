@@ -1,12 +1,12 @@
 ---
-pid: Joseph S
-fullName: Joseph Spinks
+pid: joseph_s
+label: Joseph Spinks
 number: CE6457
 vimeoId:
-videoTitle: "'/joseph-s/'"
-permalink: writer
+videoTitle:
+permalink: "/writer/joseph-s/"
 layout: writer
 collection: writers
-addressId:
+addressId: Joseph_S
 order: '07'
 ---

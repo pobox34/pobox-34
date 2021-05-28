@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj19_Myke_Voice_of_the_Night_pg_2",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1119,
+  "height": 1546,
+  "sizes": [
+    {
+      "width": 1119,
+      "height": 1546
+    },
+    {
+      "width": 250,
+      "height": 345
+    },
+    {
+      "width": 1140,
+      "height": 1575
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

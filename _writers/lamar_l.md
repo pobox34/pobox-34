@@ -1,13 +1,12 @@
 ---
-pid: Lamar L
-fullName: Lamar Lyles
+pid: lamar_l
+label: Lamar Lyles
 number: MU4886
 vimeoId:
 videoTitle:
-permalink: "'/lamar-l/'"
+permalink: "/writer/lamar-l/"
 layout: writer
 collection: writers
 addressId: Lamar-L
-! '':
-order: '08'
+order: '09'
 ---

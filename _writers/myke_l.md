@@ -1,15 +1,14 @@
 ---
-pid: Myke L
-fullName: Michael Lyons
+pid: myke_l
+label: Michael Lyons
 number: AY7639
 vimeoId: "'358352255'"
 videoTitle: We Can If We Want To
-permalink: "'/myke-l/'"
+permalink: "/writers/myke-l/"
 layout: writer
 collection: writers
 addressId: Myke-L
-! '':
-order: '10'
+order: '11'
 ---
 
 <h2 class='exhibit-title mt-5'>Inspired Works</h2>

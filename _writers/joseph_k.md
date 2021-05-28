@@ -4,7 +4,7 @@ label: Joseph Kwaha
 number: KW1517
 vimeoId:
 videoTitle:
-permalink: "/writer/joseph-k/"
+permalink: "/writers/joseph-k/"
 layout: writer
 collection: writers
 addressId: Joseph-K

@@ -1,6 +1,7 @@
 ---
 pid: obj30
-writer: Go and David G
+writer: Go
+writer1: David G
 label: Covid Gif Parts 1 and 2
 _date: March 15 2021
 order: '30'

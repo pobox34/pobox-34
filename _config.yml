@@ -24,7 +24,7 @@ url:              'localhost:4000'
 baseurl:          '/pobox-34'
 copyright:        'All rights reserved, 2021'
 logo:             'logo.png'
-destination:      .docs/
+destination:      ./docs
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS

@@ -8,7 +8,7 @@ permalink: /about/
 
 This website aims to connect incarcerated writers with a wider audience, including writing mentors and educators, collaborators from the international visual arts community, musicians, performers, people who express creatively. I hope this will open up conversation and ultimately get feedback, correspondence & connection to the writers and artists in prison.
 
-The world is burning.
+This is a collaborative platform and we welcome your input and participation in the project. Please get in touch if you'd like to be part of building a wider network in the capacity of mentorship, organizational partnership or work submissions at: pobox34 [at] protonmail.com
 
 We have set up a [GoFundMe](http://gf.me/u/yp8fys) page to raise funds to keep the project running. Thank you for your support!
 

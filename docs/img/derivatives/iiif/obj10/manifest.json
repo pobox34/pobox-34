@@ -1,75 +1,75 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/obj10/manifest.json",
+  "@id": "/pobox-34/img/derivatives/iiif/obj10/manifest.json",
   "@type": "sc:Manifest",
   "label": "obj10",
-  "thumbnail": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems/full/250,/0/default.jpg",
+  "thumbnail": "/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/sequence/obj10_Ezra_1979_First_Poems.json",
+      "@id": "/pobox-34/img/derivatives/iiif/sequence/obj10_Ezra_1979_First_Poems.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj10_Ezra_1979_First_Poems.json",
+          "@id": "/pobox-34/img/derivatives/iiif/canvas/obj10_Ezra_1979_First_Poems.json",
           "label": "Page 1",
           "width": 1240,
           "height": 1735,
-          "thumbnail": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems/full/250,/0/default.jpg",
+          "thumbnail": "/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/annotation/obj10_Ezra_1979_First_Poems.json",
+              "@id": "/pobox-34/img/derivatives/iiif/annotation/obj10_Ezra_1979_First_Poems.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems/full/full/0/default.jpg",
+                "@id": "/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems",
+                  "@id": "/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 1240,
                 "height": 1735
               },
-              "on": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj10_Ezra_1979_First_Poems.json"
+              "on": "/pobox-34/img/derivatives/iiif/canvas/obj10_Ezra_1979_First_Poems.json"
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj10_Ezra_1979_First_Poems_2.json",
+          "@id": "/pobox-34/img/derivatives/iiif/canvas/obj10_Ezra_1979_First_Poems_2.json",
           "label": "Page 2",
           "width": 1240,
           "height": 1735,
-          "thumbnail": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems_2/full/250,/0/default.jpg",
+          "thumbnail": "/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems_2/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/annotation/obj10_Ezra_1979_First_Poems_2.json",
+              "@id": "/pobox-34/img/derivatives/iiif/annotation/obj10_Ezra_1979_First_Poems_2.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems_2/full/full/0/default.jpg",
+                "@id": "/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems_2/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems_2",
+                  "@id": "/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems_2",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 1240,
                 "height": 1735
               },
-              "on": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj10_Ezra_1979_First_Poems_2.json"
+              "on": "/pobox-34/img/derivatives/iiif/canvas/obj10_Ezra_1979_First_Poems_2.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems/full/full/0/default.jpg",
-  "fullwidth": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems/full/1140,/0/default.jpg"
+  "full": "/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems/full/full/0/default.jpg",
+  "fullwidth": "/pobox-34/img/derivatives/iiif/images/obj10_Ezra_1979_First_Poems/full/1140,/0/default.jpg"
 }

@@ -6,7 +6,8 @@ _date: " July 23 2020"
 order: '07'
 layout: work
 collection: works
+permalink: "/works/Morning-Glory/"
 thumbnail: "/img/derivatives/iiif/images/obj16_Myke_L_Morning_Glory_Jul_18/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj16/manifest.json"
-full: ''
+full: "/img/derivatives/iiif/images/obj16_Myke_L_Morning_Glory_Jul_18/full/1140,/0/default.jpg"
 ---

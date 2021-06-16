@@ -6,7 +6,8 @@ _date: March 15 2021
 order: '29'
 layout: work
 collection: works
+permalink: "/works/Covid-19-Still/"
 thumbnail: "/img/derivatives/iiif/images/obj29/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj29/manifest.json"
-full:
+full: "/img/derivatives/iiif/images/obj29/full/1140,/0/default.jpg"
 ---

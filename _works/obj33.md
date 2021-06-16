@@ -6,6 +6,7 @@ _date: '2021'
 order: '33'
 layout: work
 collection: works
+permalink: "/works/Inspired-by-Nighttime-Catechism/"
 thumbnail: "/img/derivatives/iiif/images/obj33/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj33/manifest.json"
 full: "/img/derivatives/iiif/images/obj33/full/1140,/0/default.jpg"

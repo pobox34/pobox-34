@@ -6,7 +6,8 @@ _date: July 1 2020
 order: '05'
 layout: work
 collection: works
+permalink: "/works/Killadelphia/"
 thumbnail: "/img/derivatives/iiif/images/obj14_Myke_Killadelphia_0/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj14/manifest.json"
-full: ''
+full: "/img/derivatives/iiif/images/obj14_Myke_Killadelphia_0/full/1140,/0/default.jpg"
 ---

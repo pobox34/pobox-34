@@ -6,6 +6,7 @@ _date: April 11 2021
 order: '42'
 layout: work
 collection: works
+permalink: "/works/Marvin-S-2nd-Assignment/"
 thumbnail: "/img/derivatives/iiif/images/obj42_0/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj42/manifest.json"
 full: "/img/derivatives/iiif/images/obj42_0/full/1140,/0/default.jpg"

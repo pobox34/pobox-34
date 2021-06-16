@@ -6,7 +6,8 @@ _date: May 26 2020
 order: '10'
 layout: work
 collection: works
+permalink: "/works/Voice-of-the-Night/"
 thumbnail: "/img/derivatives/iiif/images/obj19_Myke_Voice_of_the_Night_pg_1/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj19/manifest.json"
-full: ''
+full: "/img/derivatives/iiif/images/obj19_Myke_Voice_of_the_Night_pg_1/full/1140,/0/default.jpg"
 ---

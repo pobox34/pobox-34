@@ -6,7 +6,8 @@ _date: May 29 2020
 order: '02'
 layout: work
 collection: works
+permalink: "/works/All-of-Us/"
 thumbnail: "/img/derivatives/iiif/images/obj11_0/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj11/manifest.json"
-full: ''
+full: "/img/derivatives/iiif/images/obj11_0/full/1140,/0/default.jpg"
 ---

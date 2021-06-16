@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj19_Myke_Voice_of_the_Night_pg_1",
+  "@id": "/pobox-34/img/derivatives/iiif/images/obj19_Myke_Voice_of_the_Night_pg_1",
   "protocol": "http://iiif.io/api/image",
   "width": 1257,
   "height": 1735,

@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj24_1",
+  "@id": "/pobox-34/img/derivatives/iiif/images/obj24_1",
   "protocol": "http://iiif.io/api/image",
   "width": 2480,
   "height": 3508,

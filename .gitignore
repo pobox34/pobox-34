@@ -1,5 +1,6 @@
 # jekyll things
 _site
+/vendor
 .sass-cache
 .jekyll-metadata
 .jekyll-cache

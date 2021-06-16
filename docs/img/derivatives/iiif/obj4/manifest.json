@@ -1,47 +1,47 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/obj4/manifest.json",
+  "@id": "/pobox-34/img/derivatives/iiif/obj4/manifest.json",
   "@type": "sc:Manifest",
   "label": "obj4",
-  "thumbnail": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+  "thumbnail": "/pobox-34/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/sequence/obj4.json",
+      "@id": "/pobox-34/img/derivatives/iiif/sequence/obj4.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj4.json",
+          "@id": "/pobox-34/img/derivatives/iiif/canvas/obj4.json",
           "label": "front",
           "width": 1236,
           "height": 1633,
-          "thumbnail": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+          "thumbnail": "/pobox-34/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/annotation/obj4.json",
+              "@id": "/pobox-34/img/derivatives/iiif/annotation/obj4.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj4/full/full/0/default.jpg",
+                "@id": "/pobox-34/img/derivatives/iiif/images/obj4/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj4",
+                  "@id": "/pobox-34/img/derivatives/iiif/images/obj4",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 1236,
                 "height": 1633
               },
-              "on": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/canvas/obj4.json"
+              "on": "/pobox-34/img/derivatives/iiif/canvas/obj4.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj4/full/full/0/default.jpg",
-  "fullwidth": "https://pobox34.github.io/pobox-34/img/derivatives/iiif/images/obj4/full/1140,/0/default.jpg"
+  "full": "/pobox-34/img/derivatives/iiif/images/obj4/full/full/0/default.jpg",
+  "fullwidth": "/pobox-34/img/derivatives/iiif/images/obj4/full/1140,/0/default.jpg"
 }

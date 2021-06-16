@@ -6,6 +6,7 @@ _date: May 20 2021
 order: '44'
 layout: work
 collection: works
+permalink: "/works/Who-Was-I/"
 thumbnail: "/img/derivatives/iiif/images/obj44_0/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj44/manifest.json"
 full: "/img/derivatives/iiif/images/obj44_0/full/1140,/0/default.jpg"

@@ -6,7 +6,8 @@ _date: May 20 2021
 order: '48'
 layout: work
 collection: works
+permalink: "/works/Covid-Response-4/"
 thumbnail: "/img/derivatives/iiif/images/obj48_0/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj48/manifest.json"
-full:
+full: "/img/derivatives/iiif/images/obj48_0/full/1140,/0/default.jpg"
 ---

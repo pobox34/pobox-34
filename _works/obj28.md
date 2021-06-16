@@ -6,7 +6,8 @@ _date: March 15 2021
 order: '28'
 layout: work
 collection: works
+permalink: "/works/Artwork-4/"
 thumbnail: "/img/derivatives/iiif/images/obj28/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj28/manifest.json"
-full:
+full: "/img/derivatives/iiif/images/obj28/full/1140,/0/default.jpg"
 ---

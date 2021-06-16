@@ -6,6 +6,7 @@ _date: December 14 2020
 order: '34'
 layout: work
 collection: works
+permalink: "/works/Conversations-with-the-Walls/"
 thumbnail: "/img/derivatives/iiif/images/obj34_00/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj34/manifest.json"
 full: "/img/derivatives/iiif/images/obj34_00/full/1140,/0/default.jpg"

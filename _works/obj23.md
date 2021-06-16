@@ -6,7 +6,8 @@ _date: July 2 2020
 order: '15'
 layout: work
 collection: works
+permalink: "/works/Pieces-from-the-Ledger/"
 thumbnail: "/img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_0/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj23/manifest.json"
-full: ''
+full: "/img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_0/full/1140,/0/default.jpg"
 ---

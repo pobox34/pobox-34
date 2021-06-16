@@ -20,10 +20,10 @@
 
 title:            'PO Box 34'
 description:      'Connecting voices inside with voices outside'
-url:              'localhost:4000'
+url:              ''
 baseurl:          '/pobox-34'
 copyright:        'All rights reserved, 2021'
-logo:             'logo.png'
+logo:             'img/logo.png'
 destination:      ./docs
 
 # ---------------------------------------------------------------
@@ -171,7 +171,7 @@ footer:
     - label: 'Team'
       link: '/team'
   logos:
-    - img: 'logo.png'
+    - img: 'img/logo.png'
 
 # --------------------------------------------------------------
 # SITE ABOUT SETTINGS

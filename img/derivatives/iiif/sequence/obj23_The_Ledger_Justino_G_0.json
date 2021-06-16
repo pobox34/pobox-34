@@ -1,0 +1,122 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/obj23_The_Ledger_Justino_G_0.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj23_The_Ledger_Justino_G_0.json",
+      "label": "Page 1",
+      "width": 2480,
+      "height": 3507,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_0/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj23_The_Ledger_Justino_G_0.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_0/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_0",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2480,
+            "height": 3507
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj23_The_Ledger_Justino_G_0.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj23_The_Ledger_Justino_G_1.json",
+      "label": "Page 2",
+      "width": 2480,
+      "height": 3507,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_1/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj23_The_Ledger_Justino_G_1.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_1/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_1",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2480,
+            "height": 3507
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj23_The_Ledger_Justino_G_1.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj23_The_Ledger_Justino_G_2.json",
+      "label": "Page 3",
+      "width": 2480,
+      "height": 3470,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_2/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj23_The_Ledger_Justino_G_2.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_2/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_2",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2480,
+            "height": 3470
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj23_The_Ledger_Justino_G_2.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj23_The_Ledger_Justino_G_3.json",
+      "label": "Page 4",
+      "width": 2480,
+      "height": 3470,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_3/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj23_The_Ledger_Justino_G_3.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_3/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj23_The_Ledger_Justino_G_3",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2480,
+            "height": 3470
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj23_The_Ledger_Justino_G_3.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

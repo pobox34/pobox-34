@@ -20,10 +20,10 @@ permalink: /team/
                         </div>
                     </div>
                 {% else %}
-                <div class='media'>
+                <div class='media mt-3'>
                     <img src='{{ person.img | absolute_url }}' height='200'>
-                    <div class='media-body'>
-                        <h4>{{ person.name }}</h4>
+                    <div class='media-body ml-3'>
+                        <h4 class='mt-0'>{{ person.name }}</h4>
                         <p>{{ person.bio }}</p>
                     </div>
                 </div>

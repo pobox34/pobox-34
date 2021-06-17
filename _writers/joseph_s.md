@@ -7,6 +7,6 @@ videoTitle:
 permalink: "/writers/joseph-s/"
 layout: writer
 collection: writers
-addressId: Joseph_S
+addressId: Joseph-S
 order: '07'
 ---

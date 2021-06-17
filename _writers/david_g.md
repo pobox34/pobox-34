@@ -7,6 +7,6 @@ videoTitle: Freedom
 permalink: "/writers/david-g/"
 layout: writer
 collection: writers
-addressId: David_G
+addressId: David-G
 order: '03'
 ---
